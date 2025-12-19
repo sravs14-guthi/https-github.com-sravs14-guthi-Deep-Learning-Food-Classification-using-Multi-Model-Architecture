@@ -1,0 +1,2 @@
+# https-github.com-sravs14-guthi-Deep-Learning-Food-Classification-using-Multi-Model-Architecture
+This project is used to identify food items from images using deep learning. Instead of using only one model, it uses multiple deep learning models together to get better accuracy.  An image of food is given as input. The image is processed and sent to different models. Each model predicts the food name. 
